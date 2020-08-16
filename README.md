@@ -1,4 +1,4 @@
-# Simple Priority
+# Simple Hourly
 
 Send an automated randomized message every 7 minutes in your server with ease! just follow the Installation & Setup guide and you will have an automated message sending system ready!
 
