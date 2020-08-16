@@ -33,7 +33,7 @@ namespace Client
             {
                 color = new[] { 138, 43, 226 },
                 multiline = true,
-                args = new[] { "Midnight RP", $"^* ^4{message}" }
+                args = new[] { "Messanger:", $"^* ^4{message}" }
             });
             return;
         }
