@@ -1,6 +1,6 @@
 # Simple Priority
 
-Setup a simple priority cooldown timer. Let your officers to relax for a second, take a breath between chases and bank robberies
+Send an automated randomized message every 7 minutes in your server with ease! just follow the Installation & Setup guide and you will have an automated message sending system ready!
 
 ## Installation & Setup
 
